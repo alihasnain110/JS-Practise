@@ -286,8 +286,61 @@
 // }
 // sum(10, 10) //arrguments
 
-function sum (num1, num2) {
-  return num1 + num2
-}
-var result = sum(20, 20)
-console.log(result)
+// function sum (num1, num2) {
+//   return num1 + num2
+// }
+// var result = sum(20, 20)
+// console.log(result)
+
+// BODMAS RULE
+
+// var i = 1 + 2 * (10 + 1)
+// console.log(i)
+
+// var i = 9 + 2+(5 + 2)+(10 * 2)
+// console.log(i)
+
+// POST AND PRE increment and decrement
+
+// var num1 = 10
+// // num1++
+// num1--
+// console.log(num1)
+
+// var num1 = 10 ;
+// --num1;
+//++num1;
+// console.log(num1);
+
+// IF/ELSE
+
+// if (1 === 1) {
+//   console.log('correct')
+// }
+
+// var userName = 'ali'
+// if (userName === 'ali') {
+//   console.log('match')
+// }
+
+// var userName = 'ali'
+// if (userName === 'hasnain') {
+//   console.log('match')
+// }
+
+// var alisFavfriut = 'mango'
+// if (alisFavfriut === 'orange') {
+//   console.log('ali fav fruit is mango')
+// } else {
+//   console.log("better luck next time")
+// }
+
+// function age () {
+//   var age = +prompt('enter your age')
+//   if (age >= '18') {
+//     console.log('you are eligible for NIC')
+//   } else if (age <= 18) {
+//     console.log('Not eligible you are under 18 ')
+//   }
+// }
+// age()
