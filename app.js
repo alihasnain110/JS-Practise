@@ -328,12 +328,13 @@
 //   console.log('match')
 // }
 
-// var alisFavfriut = 'mango'
+// var alisFavfriut = prompt("enter fruits name")
 // if (alisFavfriut === 'orange') {
-//   console.log('ali fav fruit is mango')
+//   console.log('ali fav fruit is orange')
 // } else {
 //   console.log("better luck next time")
 // }
+
 
 // function age () {
 //   var age = +prompt('enter your age')
@@ -344,3 +345,6 @@
 //   }
 // }
 // age()
+
+
+

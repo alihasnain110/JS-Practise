@@ -1,4 +1,4 @@
-/* h2 {
+h2 {
     background-color: black;
     color: aqua;
     width: 80%;
@@ -28,21 +28,5 @@ p {
     }
 }
 
-.helloworld {
-    background-color: black;
-    color: rgb(255, 0, 115);
-    width: 80%;
-    font-family: monospace;
-    text-wrap: nowrap;
-    overflow: hidden;
-    animation: typing 0.9s steps(90) infinite reverse;
-    text-align: center;
 
-}
 
-@keyframes typing {
-    from {
-        width: 0%;
-    }
-
-} */
